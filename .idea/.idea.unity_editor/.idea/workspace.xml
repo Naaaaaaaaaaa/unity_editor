@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cff961a-8ef0-49d6-b9ed-a3366b192c52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.unity_editor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_editor/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_editor/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_editor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_editor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/Myeditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Myeditor.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,58 +14,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Editor/Myeditor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="134" column="36" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
+            <state relative-caret-position="128">
+              <caret line="184" column="1" lean-forward="true" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
               <folding>
-                <marker date="1550741308073" expanded="false" signature="6:97" ph="..." />
-                <marker date="1550741308073" expanded="true" signature="136:3463" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="203:243" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="335:364" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="429:458" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="523:552" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="555:623" ph="/// 在project面板右击显示的方法,需要将路径设置在Assets下 ... " />
-                <marker date="1550741308073" expanded="true" signature="684:730" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="733:874" ph="/// 格式：&#9;CONTEXT/组件名/方法名 ... " />
-                <marker date="1550741308073" expanded="true" signature="983:1244" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1055:1088" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1095:1241" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1247:1302" ph="/// 通过Selection可以获取选择的物体 ... " />
-                <marker date="1550741308073" expanded="true" signature="1365:1536" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1403:1438" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1445:1533" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1598:1792" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1638:1671" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1678:1789" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1724:1785" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1868:2129" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1908:1945" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1952:2126" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="1998:2122" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="2204:2464" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="2244:2281" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="2288:2461" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="2334:2457" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="2467:2530" ph="/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母） ... " />
-                <marker date="1550741308073" expanded="true" signature="2597:2629" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="2709:2781" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="2784:2855" ph="/// 设置多个快捷键 ... " />
-                <marker date="1550741308073" expanded="true" signature="2936:2984" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="2987:3230" ph="/// 选中了transform物体才会启用该按钮 ... " />
-                <marker date="1550741308073" expanded="true" signature="3294:3325" ph="{...}" />
-                <marker date="1550741308073" expanded="true" signature="3392:3461" ph="{...}" />
+                <marker date="1550816647638" expanded="false" signature="6:97" ph="..." />
+                <marker date="1550816647638" expanded="true" signature="136:3658" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="203:243" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="335:364" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="429:458" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="523:552" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="555:623" ph="/// 在project面板右击显示的方法,需要将路径设置在Assets下 ... " />
+                <marker date="1550816647638" expanded="true" signature="684:730" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="733:874" ph="/// 格式：&#9;CONTEXT/组件名/方法名 ... " />
+                <marker date="1550816647638" expanded="true" signature="983:1244" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1055:1088" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1095:1241" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1247:1302" ph="/// 通过Selection可以获取选择的物体 ... " />
+                <marker date="1550816647638" expanded="true" signature="1365:1536" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1403:1438" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1445:1533" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1598:1792" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1638:1671" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1678:1789" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1724:1785" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1868:2129" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1908:1945" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1952:2126" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="1998:2122" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="2204:2464" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="2244:2281" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="2288:2461" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="2334:2457" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="2467:2530" ph="/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母） ... " />
+                <marker date="1550816647638" expanded="true" signature="2597:2629" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="2709:2781" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="2784:2855" ph="/// 设置多个快捷键 ... " />
+                <marker date="1550816647638" expanded="true" signature="2936:2984" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="2987:3230" ph="/// 选中了transform物体才会启用该按钮 ... " />
+                <marker date="1550816647638" expanded="true" signature="3294:3325" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="3392:3461" ph="{...}" />
+                <marker date="1550816647638" expanded="true" signature="3464:3504" ph="/// 创建对话框 ... " />
+                <marker date="1550816647638" expanded="true" signature="3559:3656" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="437">
               <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
               <folding>
                 <marker date="1550741733546" expanded="false" signature="6:78" ph="..." />
@@ -72,8 +75,55 @@
                 <marker date="1550741733546" expanded="true" signature="256:263" ph="{...}" />
                 <marker date="1550741733546" expanded="true" signature="318:325" ph="{...}" />
                 <marker date="1550741733546" expanded="true" signature="347:368" ph="{...}" />
-                <marker date="1550741733546" expanded="true" signature="371:423" ph="///  ... " />
+                <marker date="1550741733546" expanded="true" signature="371:423" ph="/// 会显示在Inspector右击面板 ... " />
                 <marker date="1550741733546" expanded="true" signature="475:507" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/ChangeTransform.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="102" column="17" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
+              <folding>
+                <marker date="1550826438749" expanded="true" signature="6:114" ph="..." />
+                <marker date="1550826438749" expanded="true" signature="207:2917" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="460:1224" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="635:1183" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="668:1074" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="855:979" ph="/* AssetDatabase.GetAssetPath(Object) ... */" />
+                <marker date="1550826438749" expanded="true" signature="1249:1287" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="1316:1358" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="1390:1805" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="1484:1681" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="1559:1635" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="1643:1677" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="1688:1802" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="1831:1902" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="1937:1985" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="2022:2915" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="2028:2064" ph="/* Debug.Log(&quot;取消按钮被点击了&quot;); ... */" />
+                <marker date="1550826438749" expanded="true" signature="2304:2862" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="2337:2743" ph="{...}" />
+                <marker date="1550826438749" expanded="true" signature="2524:2648" ph="/* AssetDatabase.GetAssetPath(Object) ... */" />
+                <marker date="1550826438749" expanded="true" signature="2865:2912" ph="/* EditorUtility.ClearProgressBar(); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/MyWindow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <marker date="1550828546859" expanded="true" signature="6:37" ph="..." />
+                <marker date="1550828546859" expanded="true" signature="75:948" ph="{...}" />
+                <marker date="1550828546859" expanded="true" signature="299:476" ph="{...}" />
+                <marker date="1550828546859" expanded="true" signature="494:946" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -85,15 +135,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E5A5C48-2F21-4107-AA16-9762AC1DBB9D/5d/cb0fedc0/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/MyWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ChangeTransform.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/Myeditor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Editor/MyEditor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Editor/Myeditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Myeditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/ChangeTransform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/MyWindow.cs" />
       </list>
     </option>
   </component>
@@ -161,12 +216,13 @@
       <option name="presentableId" value="Default" />
       <updated>1550716381730</updated>
       <workItem from="1550716406732" duration="11111000" />
-      <workItem from="1550738104486" duration="4059000" />
+      <workItem from="1550738104486" duration="4692000" />
+      <workItem from="1550800432276" duration="19743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15170000" />
+    <option name="totallyTimeSpent" value="35546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,54 +289,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/_Complete-Game/Scripts/Player/PlayerMovement.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/_Complete-Game/Scripts/Player/PlayerHealth.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Editor/Myeditor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="134" column="36" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
-          <folding>
-            <marker date="1550741308073" expanded="false" signature="6:97" ph="..." />
-            <marker date="1550741308073" expanded="true" signature="136:3463" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="203:243" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="335:364" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="429:458" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="523:552" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="555:623" ph="/// 在project面板右击显示的方法,需要将路径设置在Assets下 ... " />
-            <marker date="1550741308073" expanded="true" signature="684:730" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="733:874" ph="/// 格式：&#9;CONTEXT/组件名/方法名 ... " />
-            <marker date="1550741308073" expanded="true" signature="983:1244" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1055:1088" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1095:1241" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1247:1302" ph="/// 通过Selection可以获取选择的物体 ... " />
-            <marker date="1550741308073" expanded="true" signature="1365:1536" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1403:1438" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1445:1533" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1598:1792" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1638:1671" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1678:1789" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1724:1785" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1868:2129" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1908:1945" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1952:2126" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="1998:2122" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="2204:2464" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="2244:2281" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="2288:2461" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="2334:2457" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="2467:2530" ph="/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母） ... " />
-            <marker date="1550741308073" expanded="true" signature="2597:2629" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="2709:2781" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="2784:2855" ph="/// 设置多个快捷键 ... " />
-            <marker date="1550741308073" expanded="true" signature="2936:2984" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="2987:3230" ph="/// 选中了transform物体才会启用该按钮 ... " />
-            <marker date="1550741308073" expanded="true" signature="3294:3325" ph="{...}" />
-            <marker date="1550741308073" expanded="true" signature="3392:3461" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="437">
           <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
           <folding>
             <marker date="1550741733546" expanded="false" signature="6:78" ph="..." />
@@ -288,8 +299,268 @@
             <marker date="1550741733546" expanded="true" signature="256:263" ph="{...}" />
             <marker date="1550741733546" expanded="true" signature="318:325" ph="{...}" />
             <marker date="1550741733546" expanded="true" signature="347:368" ph="{...}" />
-            <marker date="1550741733546" expanded="true" signature="371:423" ph="///  ... " />
+            <marker date="1550741733546" expanded="true" signature="371:423" ph="/// 会显示在Inspector右击面板 ... " />
             <marker date="1550741733546" expanded="true" signature="475:507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E5A5C48-2F21-4107-AA16-9762AC1DBB9D/5d/cb0fedc0/AssetDatabase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="497" column="37" selection-start-line="497" selection-start-column="23" selection-end-line="497" selection-end-column="37" />
+          <folding>
+            <marker date="1550807001995" expanded="true" signature="0:279" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1550807001995" expanded="false" signature="287:587" ph="..." />
+            <marker date="1550807001995" expanded="true" signature="610:59207" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="615:737" ph="///   &lt;para&gt;An Interface for accessing assets and performing operations on assets.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="852:59205" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="1413:1565" ph="///   &lt;para&gt;Is object an asset?&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="1621:1691" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="1697:1849" ph="///   &lt;para&gt;Is object an asset?&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="1998:2318" ph="///   &lt;para&gt;Create a new folder.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="2500:2677" ph="///   &lt;para&gt;Is asset a main asset in the project window?&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="2736:2809" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="2815:3074" ph="///   &lt;para&gt;Gets the IP address of the Cache Server currently in use by the Editor.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="3226:3403" ph="///   &lt;para&gt;Is asset a main asset in the project window?&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="3555:3797" ph="///   &lt;para&gt;Does the asset form part of another asset?&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="3855:3927" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="3933:4175" ph="///   &lt;para&gt;Does the asset form part of another asset?&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="4326:4507" ph="///   &lt;para&gt;Determines whether the Asset is a foreign Asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="4569:4745" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="4751:4932" ph="///   &lt;para&gt;Determines whether the Asset is a foreign Asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="5087:5267" ph="///   &lt;para&gt;Determines whether the Asset is a native Asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="5328:5503" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="5509:5689" ph="///   &lt;para&gt;Determines whether the Asset is a native Asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="5843:5974" ph="///   &lt;para&gt;Creates a new unique path for an asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="6137:6290" ph="///   &lt;para&gt;Begin Asset importing. This lets you group several asset imports together into one larger import.&lt;/pa ... " />
+            <marker date="1550807001995" expanded="true" signature="6434:6586" ph="///   &lt;para&gt;Stop Asset importing. This lets you group several asset imports together into one larger import.&lt;/par ... " />
+            <marker date="1550807001995" expanded="true" signature="6729:6957" ph="///   &lt;para&gt;Calling this function will release file handles internally cached by Unity. This allows modifying ass ... " />
+            <marker date="1550807001995" expanded="true" signature="7108:7560" ph="///   &lt;para&gt;Checks if an asset file can be moved from one folder to another. (Without actually moving the file).&lt; ... " />
+            <marker date="1550807001995" expanded="true" signature="7736:8161" ph="///   &lt;para&gt;Move an asset file (or folder) from one folder to another.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="8329:8799" ph="///   &lt;para&gt;Creates an external Asset from an object (such as a Material) by extracting it from within an importe ... " />
+            <marker date="1550807001995" expanded="true" signature="8980:9376" ph="///   &lt;para&gt;Rename an asset file.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="9547:9676" ph="///   &lt;para&gt;Moves the asset at path to the trash.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="9830:9996" ph="///   &lt;para&gt;Deletes the asset file at path.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="10145:10297" ph="///   &lt;para&gt;Import asset at path.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="10519:10671" ph="///   &lt;para&gt;Import asset at path.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="10741:10864" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="10870:11134" ph="///   &lt;para&gt;Duplicates the asset at path and stores it at newPath.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="11297:11424" ph="///   &lt;para&gt;Writes the import settings to disk.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="11588:11821" ph="///   &lt;para&gt;Given a path to a directory in the Assets folder, relative to the project folder, this method will re ... " />
+            <marker date="1550807001995" expanded="true" signature="11976:12255" ph="///   &lt;para&gt;Given a path to a folder, returns true if it exists, false otherwise.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="12406:12633" ph="///   &lt;para&gt;Creates a new asset at path.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="12994:13240" ph="///   &lt;para&gt;Adds objectToAdd to an existing asset at path.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="13426:13632" ph="///   &lt;para&gt;Adds objectToAdd to an existing asset identified by assetObject.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="13736:13825" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="14285:14577" ph="///   &lt;para&gt;Specifies which object in the asset file should become the main object after the next import.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="14764:15176" ph="///   &lt;para&gt;Returns the path name relative to the project folder where the asset is stored.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="15347:15759" ph="///   &lt;para&gt;Returns the path name relative to the project folder where the asset is stored.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="15813:15892" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="16402:16580" ph="///   &lt;para&gt;Returns the path name relative to the project folder where the asset is stored.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="16758:17070" ph="///   &lt;para&gt;Gets the path to the text .meta file associated with an asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="17242:17400" ph="///   &lt;para&gt;Gets the path to the asset file associated with a text .meta file.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="17572:17917" ph="///   &lt;para&gt;Returns the first asset object of type type at given path assetPath.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="18263:18346" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="18352:18529" ph="///   &lt;para&gt;Returns the main asset object at assetPath.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="18876:19065" ph="///   &lt;para&gt;Returns the type of the main asset object at assetPath.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="19237:19442" ph="///   &lt;para&gt;Returns true if the main asset object at assetPath is loaded in memory.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="19608:19741" ph="///   &lt;para&gt;Returns all sub Assets at assetPath.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="19940:20110" ph="///   &lt;para&gt;Returns an array of all Assets at assetPath.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="20556:20568" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="20674:20686" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="20692:20813" ph="///   &lt;para&gt;Import any changed assets.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="21068:21137" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="21143:21365" ph="///   &lt;para&gt;Opens the asset with associated application.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="21552:21774" ph="///   &lt;para&gt;Opens the asset with associated application.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="21845:21946" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="21952:22174" ph="///   &lt;para&gt;Opens the asset with associated application.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="22256:22353" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="22359:22581" ph="///   &lt;para&gt;Opens the asset with associated application.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="22678:22811" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="22817:22962" ph="///   &lt;para&gt;Opens the asset(s) with associated application(s).&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="23025:23219" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="23108:23194" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="23225:23447" ph="///   &lt;para&gt;Get the GUID for the asset at path.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="23602:23737" ph="///   &lt;para&gt;Translate a GUID to its current asset path.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="23892:24131" ph="///   &lt;para&gt;Returns the hash of all the dependencies of an asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="24193:24327" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="24522:24619" ph="///   &lt;para&gt;Writes all unsaved asset changes to disk.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="24756:24904" ph="///   &lt;para&gt;Retrieves an icon for the asset at the given asset path.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="25058:25228" ph="///   &lt;para&gt;Replaces that list of labels on an asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="25642:25991" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="25997:26133" ph="///   &lt;para&gt;Returns all labels attached to a given asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="26295:26426" ph="///   &lt;para&gt;Removes all labels attached to an asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="26586:26786" ph="///   &lt;para&gt;Return all the AssetBundle names in the asset database.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="27078:27143" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="27466:27584" ph="///   &lt;para&gt;Return all the unused assetBundle names in the asset database.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="27740:28139" ph="///   &lt;para&gt;Remove the assetBundle name from the asset database. The forceRemove flag is used to indicate if you  ... " />
+            <marker date="1550807001995" expanded="true" signature="28327:28445" ph="///   &lt;para&gt;Remove all the unused assetBundle names in the asset database.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="28600:28786" ph="///   &lt;para&gt;Get the paths of the assets which have been marked with the given assetBundle name.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="28967:29212" ph="///   &lt;para&gt;Get the Asset paths for all Assets tagged with assetBundleName and ... " />
+            <marker date="1550807001995" expanded="true" signature="29436:29788" ph="///   &lt;para&gt;Returns the name of the AssetBundle that a given asset belongs to.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="29959:30327" ph="///   &lt;para&gt;Returns the name of the AssetBundle Variant that a given asset belongs to.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="30505:31045" ph="///   &lt;para&gt;Given an assetBundleName, returns the list of AssetBundles that it depends on.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="31240:31761" ph="///   &lt;para&gt;Given a pathName, returns the list of all assets that it depends on.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="31821:31893" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="31899:32420" ph="///   &lt;para&gt;Given a pathName, returns the list of all assets that it depends on.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="32496:32611" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="32566:32592" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="32617:33157" ph="///   &lt;para&gt;Given an array of pathNames, returns the list of all assets that the input depend on.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="33220:33293" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="33299:33839" ph="///   &lt;para&gt;Given an array of pathNames, returns the list of all assets that the input depend on.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="34019:34326" ph="///   &lt;para&gt;Exports the assets identified by assetPathNames to a unitypackage file in fileName.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="34402:34542" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="34463:34494" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="34548:34855" ph="///   &lt;para&gt;Exports the assets identified by assetPathNames to a unitypackage file in fileName.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="34978:35095" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="35039:35070" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="35101:35408" ph="///   &lt;para&gt;Exports the assets identified by assetPathNames to a unitypackage file in fileName.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="35682:35989" ph="///   &lt;para&gt;Exports the assets identified by assetPathNames to a unitypackage file in fileName.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="36090:36235" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="36241:36439" ph="///   &lt;para&gt;Imports package at packagePath into the current project.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="36514:37184" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="37255:37822" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="38000:38810" ph="///   &lt;para&gt;Query whether an asset file is open for edit in version control.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="39106:39248" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="39254:40064" ph="///   &lt;para&gt;Query whether an asset file is open for edit in version control.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="40172:40294" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="40300:41110" ph="///   &lt;para&gt;Query whether an asset file is open for edit in version control.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="41402:41517" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="41523:42333" ph="///   &lt;para&gt;Query whether an asset file is open for edit in version control.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="42450:42580" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="42897:43017" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="43160:43290" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="43603:43731" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="43870:43994" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="44000:44730" ph="///   &lt;para&gt;Query whether an asset's metadata (.meta) file is open for edit in version control.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="45042:45157" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="45163:45893" ph="///   &lt;para&gt;Query whether an asset's metadata (.meta) file is open for edit in version control.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="46004:46129" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="46462:46590" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="46741:46919" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="47271:47357" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="49041:50214" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="49286:50060" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="49549:50052" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="50853:50970" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="51344:51615" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="51750:51867" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="51994:52205" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="52211:52671" ph="///   &lt;para&gt;Forcibly load and re-serialize the given assets, flushing any outstanding data changes to disk.&lt;/para ... " />
+            <marker date="1550807001995" expanded="true" signature="52719:52891" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="53338:53475" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="53583:53724" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="53832:53973" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="54099:54248" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="54254:54566" ph="///   &lt;para&gt;Gets the path to the text .meta file associated with an asset.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="54798:54838" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="54844:55293" ph="///   &lt;para&gt;Search the asset database using the search filter string.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="55346:55422" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="55428:55877" ph="///   &lt;para&gt;Search the asset database using the search filter string.&lt;/para&gt; ... " />
+            <marker date="1550807001995" expanded="true" signature="55956:56310" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="56112:56251" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="56378:56561" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="56682:57157" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="56695:56805" ph="/* ISSUE: object of a compiler-generated type is created ... */" />
+            <marker date="1550807001995" expanded="true" signature="56947:56992" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="57262:57682" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="57832:58080" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="57999:58073" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="58231:58480" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="58399:58473" ph="{...}" />
+            <marker date="1550807001995" expanded="true" signature="58486:58715" ph="///   &lt;para&gt;Delegate to be called from AssetDatabase.ImportPackage callbacks. packageName is the name of the pack ... " />
+            <marker date="1550807001995" expanded="true" signature="58789:59106" ph="///   &lt;para&gt;Delegate to be called from AssetDatabase.ImportPackage callbacks. packageName is the name of the pack ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Myeditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="184" column="1" lean-forward="true" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
+          <folding>
+            <marker date="1550816647638" expanded="false" signature="6:97" ph="..." />
+            <marker date="1550816647638" expanded="true" signature="136:3658" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="203:243" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="335:364" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="429:458" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="523:552" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="555:623" ph="/// 在project面板右击显示的方法,需要将路径设置在Assets下 ... " />
+            <marker date="1550816647638" expanded="true" signature="684:730" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="733:874" ph="/// 格式：&#9;CONTEXT/组件名/方法名 ... " />
+            <marker date="1550816647638" expanded="true" signature="983:1244" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1055:1088" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1095:1241" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1247:1302" ph="/// 通过Selection可以获取选择的物体 ... " />
+            <marker date="1550816647638" expanded="true" signature="1365:1536" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1403:1438" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1445:1533" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1598:1792" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1638:1671" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1678:1789" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1724:1785" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1868:2129" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1908:1945" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1952:2126" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="1998:2122" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="2204:2464" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="2244:2281" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="2288:2461" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="2334:2457" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="2467:2530" ph="/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母） ... " />
+            <marker date="1550816647638" expanded="true" signature="2597:2629" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="2709:2781" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="2784:2855" ph="/// 设置多个快捷键 ... " />
+            <marker date="1550816647638" expanded="true" signature="2936:2984" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="2987:3230" ph="/// 选中了transform物体才会启用该按钮 ... " />
+            <marker date="1550816647638" expanded="true" signature="3294:3325" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="3392:3461" ph="{...}" />
+            <marker date="1550816647638" expanded="true" signature="3464:3504" ph="/// 创建对话框 ... " />
+            <marker date="1550816647638" expanded="true" signature="3559:3656" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/ChangeTransform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="102" column="17" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
+          <folding>
+            <marker date="1550826438749" expanded="true" signature="6:114" ph="..." />
+            <marker date="1550826438749" expanded="true" signature="207:2917" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="460:1224" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="635:1183" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="668:1074" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="855:979" ph="/* AssetDatabase.GetAssetPath(Object) ... */" />
+            <marker date="1550826438749" expanded="true" signature="1249:1287" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="1316:1358" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="1390:1805" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="1484:1681" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="1559:1635" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="1643:1677" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="1688:1802" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="1831:1902" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="1937:1985" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="2022:2915" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="2028:2064" ph="/* Debug.Log(&quot;取消按钮被点击了&quot;); ... */" />
+            <marker date="1550826438749" expanded="true" signature="2304:2862" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="2337:2743" ph="{...}" />
+            <marker date="1550826438749" expanded="true" signature="2524:2648" ph="/* AssetDatabase.GetAssetPath(Object) ... */" />
+            <marker date="1550826438749" expanded="true" signature="2865:2912" ph="/* EditorUtility.ClearProgressBar(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/MyWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <marker date="1550828546859" expanded="true" signature="6:37" ph="..." />
+            <marker date="1550828546859" expanded="true" signature="75:948" ph="{...}" />
+            <marker date="1550828546859" expanded="true" signature="299:476" ph="{...}" />
+            <marker date="1550828546859" expanded="true" signature="494:946" ph="{...}" />
           </folding>
         </state>
       </provider>

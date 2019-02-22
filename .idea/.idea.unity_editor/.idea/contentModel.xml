@@ -8,7 +8,9 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Editor" t="Include">
+          <e p="ChangeTransform.cs" t="Include" />
           <e p="Myeditor.cs" t="Include" />
+          <e p="MyWindow.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
           <e p="MyContextMenu.cs" t="Include" />
@@ -17,7 +19,9 @@
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
       <e p="unity_editor.sln" t="IncludeFlat" />
     </e>
   </component>

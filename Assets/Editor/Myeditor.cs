@@ -131,7 +131,7 @@ public class Myeditor :  EditorWindow{
 	/// <summary>
 	/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母）
 	/// </summary>
-	[MenuItem("Tools/设置单个快捷键M _m")]
+	[MenuItem("Tools/设置单个快捷键M #m")]
 	static void SetSingleShortcuts()
 	{
 		Debug.Log("这里是单个快捷键M");
@@ -172,5 +172,14 @@ public class Myeditor :  EditorWindow{
 	{
 		if (!Selection.activeTransform) return false;
 		return true;
+	}
+
+	/// <summary>
+	/// 创建对话框
+	/// </summary>
+	[MenuItem("Tools/创建对话框")]
+	static void CreateWizard()
+	{
+		ScriptableWizard.DisplayWizard<ChangeTransform>("修改GameObject的Transform属性", "确定", "取消");
 	}
 }
