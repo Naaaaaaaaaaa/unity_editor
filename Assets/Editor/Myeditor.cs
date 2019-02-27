@@ -131,6 +131,7 @@ public class Myeditor :  EditorWindow{
 	/// <summary>
 	/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母）
 	/// </summary>
+	//[MenuItem("Tools/设置单个快捷键M _m")] 快捷键M
 	[MenuItem("Tools/设置单个快捷键M #m")]
 	static void SetSingleShortcuts()
 	{

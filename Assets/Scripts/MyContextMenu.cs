@@ -8,15 +8,6 @@ public class MyContextMenu : MonoBehaviour
 	public int Blood;
 
 	public Vector3 Position;
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 
 	public void AddHP()
 	{

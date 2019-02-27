@@ -5,7 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_editor/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_editor/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_editor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_editor/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Editor/Myeditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Myeditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,47 +18,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Editor/Myeditor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="184" column="1" lean-forward="true" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
+            <state relative-caret-position="38">
+              <caret line="181" column="30" lean-forward="true" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="30" />
               <folding>
-                <marker date="1550816647638" expanded="false" signature="6:97" ph="..." />
-                <marker date="1550816647638" expanded="true" signature="136:3658" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="203:243" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="335:364" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="429:458" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="523:552" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="555:623" ph="/// 在project面板右击显示的方法,需要将路径设置在Assets下 ... " />
-                <marker date="1550816647638" expanded="true" signature="684:730" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="733:874" ph="/// 格式：&#9;CONTEXT/组件名/方法名 ... " />
-                <marker date="1550816647638" expanded="true" signature="983:1244" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1055:1088" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1095:1241" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1247:1302" ph="/// 通过Selection可以获取选择的物体 ... " />
-                <marker date="1550816647638" expanded="true" signature="1365:1536" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1403:1438" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1445:1533" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1598:1792" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1638:1671" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1678:1789" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1724:1785" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1868:2129" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1908:1945" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1952:2126" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="1998:2122" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="2204:2464" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="2244:2281" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="2288:2461" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="2334:2457" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="2467:2530" ph="/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母） ... " />
-                <marker date="1550816647638" expanded="true" signature="2597:2629" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="2709:2781" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="2784:2855" ph="/// 设置多个快捷键 ... " />
-                <marker date="1550816647638" expanded="true" signature="2936:2984" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="2987:3230" ph="/// 选中了transform物体才会启用该按钮 ... " />
-                <marker date="1550816647638" expanded="true" signature="3294:3325" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="3392:3461" ph="{...}" />
-                <marker date="1550816647638" expanded="true" signature="3464:3504" ph="/// 创建对话框 ... " />
-                <marker date="1550816647638" expanded="true" signature="3559:3656" ph="{...}" />
+                <marker date="1551080198971" expanded="false" signature="6:97" ph="..." />
+                <marker date="1551080198971" expanded="true" signature="136:3698" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="203:243" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="335:364" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="429:458" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="523:552" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="555:623" ph="/// 在project面板右击显示的方法,需要将路径设置在Assets下 ... " />
+                <marker date="1551080198971" expanded="true" signature="684:730" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="733:874" ph="/// 格式：&#9;CONTEXT/组件名/方法名 ... " />
+                <marker date="1551080198971" expanded="true" signature="983:1244" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1055:1088" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1095:1241" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1247:1302" ph="/// 通过Selection可以获取选择的物体 ... " />
+                <marker date="1551080198971" expanded="true" signature="1365:1536" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1403:1438" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1445:1533" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1598:1792" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1638:1671" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1678:1789" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1724:1785" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1868:2129" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1908:1945" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1952:2126" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="1998:2122" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="2204:2464" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="2244:2281" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="2288:2461" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="2334:2457" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="2467:2530" ph="/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母） ... " />
+                <marker date="1551080198971" expanded="true" signature="2637:2669" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="2749:2821" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="2824:2895" ph="/// 设置多个快捷键 ... " />
+                <marker date="1551080198971" expanded="true" signature="2976:3024" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="3027:3270" ph="/// 选中了transform物体才会启用该按钮 ... " />
+                <marker date="1551080198971" expanded="true" signature="3334:3365" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="3432:3501" ph="{...}" />
+                <marker date="1551080198971" expanded="true" signature="3504:3544" ph="/// 创建对话框 ... " />
+                <marker date="1551080198971" expanded="true" signature="3599:3696" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -67,16 +67,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="52">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
               <folding>
-                <marker date="1550741733546" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550741733546" expanded="true" signature="122:509" ph="{...}" />
-                <marker date="1550741733546" expanded="true" signature="256:263" ph="{...}" />
-                <marker date="1550741733546" expanded="true" signature="318:325" ph="{...}" />
-                <marker date="1550741733546" expanded="true" signature="347:368" ph="{...}" />
-                <marker date="1550741733546" expanded="true" signature="371:423" ph="/// 会显示在Inspector右击面板 ... " />
-                <marker date="1550741733546" expanded="true" signature="475:507" ph="{...}" />
+                <marker date="1551080355297" expanded="false" signature="6:78" ph="..." />
+                <marker date="1551080355297" expanded="true" signature="122:392" ph="{...}" />
+                <marker date="1551080355297" expanded="true" signature="230:251" ph="{...}" />
+                <marker date="1551080355297" expanded="true" signature="254:306" ph="/// 会显示在Inspector右击面板 ... " />
+                <marker date="1551080355297" expanded="true" signature="358:390" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -88,7 +86,7 @@
             <state relative-caret-position="337">
               <caret line="102" column="17" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
               <folding>
-                <marker date="1550826438749" expanded="true" signature="6:114" ph="..." />
+                <marker date="1550826438749" expanded="false" signature="6:158" ph="..." />
                 <marker date="1550826438749" expanded="true" signature="207:2917" ph="{...}" />
                 <marker date="1550826438749" expanded="true" signature="460:1224" ph="{...}" />
                 <marker date="1550826438749" expanded="true" signature="635:1183" ph="{...}" />
@@ -108,22 +106,40 @@
                 <marker date="1550826438749" expanded="true" signature="2304:2862" ph="{...}" />
                 <marker date="1550826438749" expanded="true" signature="2337:2743" ph="{...}" />
                 <marker date="1550826438749" expanded="true" signature="2524:2648" ph="/* AssetDatabase.GetAssetPath(Object) ... */" />
-                <marker date="1550826438749" expanded="true" signature="2865:2912" ph="/* EditorUtility.ClearProgressBar(); ... */" />
+                <marker date="1550826438749" expanded="true" signature="2865:2912" ph="/* 关闭进度条显示 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/MyWindow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="14" />
+              <folding>
+                <marker date="1550828546859" expanded="false" signature="6:37" ph="..." />
+                <marker date="1550828546859" expanded="true" signature="75:948" ph="{...}" />
+                <marker date="1550828546859" expanded="true" signature="299:476" ph="{...}" />
+                <marker date="1550828546859" expanded="true" signature="494:946" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Editor/MyWindow.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/MyTestWindow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="-5">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <marker date="1550828546859" expanded="true" signature="6:37" ph="..." />
-                <marker date="1550828546859" expanded="true" signature="75:948" ph="{...}" />
-                <marker date="1550828546859" expanded="true" signature="299:476" ph="{...}" />
-                <marker date="1550828546859" expanded="true" signature="494:946" ph="{...}" />
+                <marker date="1551082151949" expanded="true" signature="6:97" ph="..." />
+                <marker date="1551082151949" expanded="true" signature="139:1843" ph="{...}" />
+                <marker date="1551082151949" expanded="true" signature="365:495" ph="{...}" />
+                <marker date="1551082151949" expanded="true" signature="518:1841" ph="{...}" />
+                <marker date="1551082151949" expanded="true" signature="636:1025" ph="/* _title = EditorGUILayout.TextField(&quot;窗口名称&quot;, _title); ... */" />
+                <marker date="1551082151949" expanded="true" signature="1295:1499" ph="{...}" />
+                <marker date="1551082151949" expanded="true" signature="1445:1493" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -136,6 +152,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E5A5C48-2F21-4107-AA16-9762AC1DBB9D/5d/cb0fedc0/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/MyTestWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/MyWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/ChangeTransform.cs" root0="FORCE_HIGHLIGHTING" />
@@ -145,10 +162,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Editor/MyEditor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs" />
-        <option value="$PROJECT_DIR$/Assets/Editor/Myeditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/ChangeTransform.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/MyWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Myeditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/MyTestWindow.cs" />
       </list>
     </option>
   </component>
@@ -218,11 +236,12 @@
       <workItem from="1550716406732" duration="11111000" />
       <workItem from="1550738104486" duration="4692000" />
       <workItem from="1550800432276" duration="19743000" />
+      <workItem from="1551060116202" duration="8979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35546000" />
+    <option name="totallyTimeSpent" value="44525000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,7 +254,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -289,22 +307,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/_Complete-Game/Scripts/Player/PlayerMovement.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/_Complete-Game/Scripts/Player/PlayerHealth.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <marker date="1550741733546" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550741733546" expanded="true" signature="122:509" ph="{...}" />
-            <marker date="1550741733546" expanded="true" signature="256:263" ph="{...}" />
-            <marker date="1550741733546" expanded="true" signature="318:325" ph="{...}" />
-            <marker date="1550741733546" expanded="true" signature="347:368" ph="{...}" />
-            <marker date="1550741733546" expanded="true" signature="371:423" ph="/// 会显示在Inspector右击面板 ... " />
-            <marker date="1550741733546" expanded="true" signature="475:507" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E5A5C48-2F21-4107-AA16-9762AC1DBB9D/5d/cb0fedc0/AssetDatabase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -475,49 +477,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/MyWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <marker date="1550828546859" expanded="false" signature="6:37" ph="..." />
+            <marker date="1550828546859" expanded="true" signature="75:948" ph="{...}" />
+            <marker date="1550828546859" expanded="true" signature="299:476" ph="{...}" />
+            <marker date="1550828546859" expanded="true" signature="494:946" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Editor/Myeditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="184" column="1" lean-forward="true" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
+        <state relative-caret-position="38">
+          <caret line="181" column="30" lean-forward="true" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="30" />
           <folding>
-            <marker date="1550816647638" expanded="false" signature="6:97" ph="..." />
-            <marker date="1550816647638" expanded="true" signature="136:3658" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="203:243" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="335:364" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="429:458" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="523:552" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="555:623" ph="/// 在project面板右击显示的方法,需要将路径设置在Assets下 ... " />
-            <marker date="1550816647638" expanded="true" signature="684:730" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="733:874" ph="/// 格式：&#9;CONTEXT/组件名/方法名 ... " />
-            <marker date="1550816647638" expanded="true" signature="983:1244" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1055:1088" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1095:1241" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1247:1302" ph="/// 通过Selection可以获取选择的物体 ... " />
-            <marker date="1550816647638" expanded="true" signature="1365:1536" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1403:1438" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1445:1533" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1598:1792" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1638:1671" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1678:1789" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1724:1785" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1868:2129" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1908:1945" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1952:2126" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="1998:2122" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="2204:2464" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="2244:2281" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="2288:2461" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="2334:2457" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="2467:2530" ph="/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母） ... " />
-            <marker date="1550816647638" expanded="true" signature="2597:2629" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="2709:2781" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="2784:2855" ph="/// 设置多个快捷键 ... " />
-            <marker date="1550816647638" expanded="true" signature="2936:2984" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="2987:3230" ph="/// 选中了transform物体才会启用该按钮 ... " />
-            <marker date="1550816647638" expanded="true" signature="3294:3325" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="3392:3461" ph="{...}" />
-            <marker date="1550816647638" expanded="true" signature="3464:3504" ph="/// 创建对话框 ... " />
-            <marker date="1550816647638" expanded="true" signature="3559:3656" ph="{...}" />
+            <marker date="1551080198971" expanded="false" signature="6:97" ph="..." />
+            <marker date="1551080198971" expanded="true" signature="136:3698" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="203:243" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="335:364" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="429:458" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="523:552" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="555:623" ph="/// 在project面板右击显示的方法,需要将路径设置在Assets下 ... " />
+            <marker date="1551080198971" expanded="true" signature="684:730" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="733:874" ph="/// 格式：&#9;CONTEXT/组件名/方法名 ... " />
+            <marker date="1551080198971" expanded="true" signature="983:1244" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1055:1088" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1095:1241" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1247:1302" ph="/// 通过Selection可以获取选择的物体 ... " />
+            <marker date="1551080198971" expanded="true" signature="1365:1536" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1403:1438" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1445:1533" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1598:1792" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1638:1671" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1678:1789" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1724:1785" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1868:2129" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1908:1945" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1952:2126" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="1998:2122" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="2204:2464" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="2244:2281" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="2288:2461" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="2334:2457" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="2467:2530" ph="/// 设置单个快捷键格式： 需要在路径后面 （空格_单个字母） ... " />
+            <marker date="1551080198971" expanded="true" signature="2637:2669" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="2749:2821" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="2824:2895" ph="/// 设置多个快捷键 ... " />
+            <marker date="1551080198971" expanded="true" signature="2976:3024" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="3027:3270" ph="/// 选中了transform物体才会启用该按钮 ... " />
+            <marker date="1551080198971" expanded="true" signature="3334:3365" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="3432:3501" ph="{...}" />
+            <marker date="1551080198971" expanded="true" signature="3504:3544" ph="/// 创建对话框 ... " />
+            <marker date="1551080198971" expanded="true" signature="3599:3696" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyContextMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1551080355297" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551080355297" expanded="true" signature="122:392" ph="{...}" />
+            <marker date="1551080355297" expanded="true" signature="230:251" ph="{...}" />
+            <marker date="1551080355297" expanded="true" signature="254:306" ph="/// 会显示在Inspector右击面板 ... " />
+            <marker date="1551080355297" expanded="true" signature="358:390" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -527,7 +556,7 @@
         <state relative-caret-position="337">
           <caret line="102" column="17" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
           <folding>
-            <marker date="1550826438749" expanded="true" signature="6:114" ph="..." />
+            <marker date="1550826438749" expanded="false" signature="6:158" ph="..." />
             <marker date="1550826438749" expanded="true" signature="207:2917" ph="{...}" />
             <marker date="1550826438749" expanded="true" signature="460:1224" ph="{...}" />
             <marker date="1550826438749" expanded="true" signature="635:1183" ph="{...}" />
@@ -547,20 +576,23 @@
             <marker date="1550826438749" expanded="true" signature="2304:2862" ph="{...}" />
             <marker date="1550826438749" expanded="true" signature="2337:2743" ph="{...}" />
             <marker date="1550826438749" expanded="true" signature="2524:2648" ph="/* AssetDatabase.GetAssetPath(Object) ... */" />
-            <marker date="1550826438749" expanded="true" signature="2865:2912" ph="/* EditorUtility.ClearProgressBar(); ... */" />
+            <marker date="1550826438749" expanded="true" signature="2865:2912" ph="/* 关闭进度条显示 ... */" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Editor/MyWindow.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/MyTestWindow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="-5">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
-            <marker date="1550828546859" expanded="true" signature="6:37" ph="..." />
-            <marker date="1550828546859" expanded="true" signature="75:948" ph="{...}" />
-            <marker date="1550828546859" expanded="true" signature="299:476" ph="{...}" />
-            <marker date="1550828546859" expanded="true" signature="494:946" ph="{...}" />
+            <marker date="1551082151949" expanded="true" signature="6:97" ph="..." />
+            <marker date="1551082151949" expanded="true" signature="139:1843" ph="{...}" />
+            <marker date="1551082151949" expanded="true" signature="365:495" ph="{...}" />
+            <marker date="1551082151949" expanded="true" signature="518:1841" ph="{...}" />
+            <marker date="1551082151949" expanded="true" signature="636:1025" ph="/* _title = EditorGUILayout.TextField(&quot;窗口名称&quot;, _title); ... */" />
+            <marker date="1551082151949" expanded="true" signature="1295:1499" ph="{...}" />
+            <marker date="1551082151949" expanded="true" signature="1445:1493" ph="{...}" />
           </folding>
         </state>
       </provider>
